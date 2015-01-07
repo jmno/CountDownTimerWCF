@@ -10,6 +10,7 @@ using System.IO;
 using System.Web.Hosting;
 using System.Diagnostics;
 using System.Web.Management;
+using System.ServiceModel.Description;
 
 namespace WCFPata
 {
