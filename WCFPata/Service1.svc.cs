@@ -11,6 +11,7 @@ using System.Web.Hosting;
 using System.Diagnostics;
 using System.Web.Management;
 using System.ServiceModel.Description;
+using System.Web.Routing;
 
 namespace WCFPata
 {
@@ -29,7 +30,7 @@ namespace WCFPata
 
         public Service1()
         {
-
+           
             this.contas = new Dictionary<string, ContaWEB>();
             this.tokens = new Dictionary<string, Token>();
             FILEPATH = Path.Combine(HostingEnvironment.ApplicationPhysicalPath, "App_Data", "teste.xml");
