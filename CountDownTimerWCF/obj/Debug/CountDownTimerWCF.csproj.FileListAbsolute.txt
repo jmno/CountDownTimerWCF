@@ -1,6 +1,0 @@
-c:\users\joão\documents\visual studio 2013\Projects\CountDownTimerWCF\CountDownTimerWCF\obj\Debug\CountDownTimerWCF.csprojResolveAssemblyReference.cache
-c:\users\joão\documents\visual studio 2013\Projects\CountDownTimerWCF\CountDownTimerWCF\bin\Debug\CountDownTimerWCF.dll.config
-c:\users\joão\documents\visual studio 2013\Projects\CountDownTimerWCF\CountDownTimerWCF\bin\Debug\CountDownTimerWCF.dll
-c:\users\joão\documents\visual studio 2013\Projects\CountDownTimerWCF\CountDownTimerWCF\bin\Debug\CountDownTimerWCF.pdb
-c:\users\joão\documents\visual studio 2013\Projects\CountDownTimerWCF\CountDownTimerWCF\obj\Debug\CountDownTimerWCF.dll
-c:\users\joão\documents\visual studio 2013\Projects\CountDownTimerWCF\CountDownTimerWCF\obj\Debug\CountDownTimerWCF.pdb
